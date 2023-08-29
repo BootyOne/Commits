@@ -1,2 +1,2 @@
-GITHUB_USERNAME = 'BootyOne'
-COMPANY_NAME = 'godaddy'
+GITHUB_USERNAME = 'ваше-имя-пользователя'
+COMPANY_NAME = 'ваша-организация'
